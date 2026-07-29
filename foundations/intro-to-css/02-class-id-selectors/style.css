@@ -3,7 +3,7 @@
 .odd
 {
     background-color: rgb(234, 160, 160);
-    font: "Verdana" "DejaVu Sans" "sans-serif" ;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #two
